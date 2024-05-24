@@ -18,7 +18,7 @@ Clone the project repo:
 ```
 # project dir: /[root_path]/MIPANet
 git clone https://github.com/2295104718/MIPANet.git
-cd PCGNet
+cd MIPANet
 ```
 
 #### NYU Depth V2
