@@ -40,7 +40,7 @@ pip install -r requirements.txt
 1) On a computer with GPU:
 ```
 # remember to activate the env
-python train.py [dataset_root] [dataset_name] [exp_id] > [log_name].log 2>&1
+python train.py
 ```
 
 ## Model setting
