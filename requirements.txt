@@ -1,0 +1,16 @@
+addict==2.4.0
+certifi==2021.5.30
+charset-normalizer==2.0.1
+idna==3.2
+numpy==1.17.0
+olefile==0.46
+portalocker==2.3.0
+protobuf==3.17.3
+PyYAML==5.4.1
+requests==2.26.0
+scipy==1.5.4
+tensorboardX==2.4
+torch==1.4.0
+torchvision==0.5.0
+tqdm==4.61.2
+urllib3==1.26.6
